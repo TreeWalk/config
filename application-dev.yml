@@ -1,2 +1,4 @@
 clientParam: git-dev-1.0
-dateformat: MM-dd HH:mm:ss:SSS
+pattern: 
+  dateformat: yy-MM-dd HH:mm:ss
+
