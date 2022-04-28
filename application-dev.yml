@@ -1,4 +1,7 @@
 clientParam: git-dev-1.0
 pattern: 
   dateformat: yy-MM-dd HH:mm:ss
-
+spring: 
+  jackson:
+    date-format: yy-MM-dd hh:mm:ss
+    time-zone: GUT+8
