@@ -3,5 +3,5 @@ pattern:
   dateformat: yy-MM-dd HH:mm:ss
 spring: 
   jackson:
-    date-format: yyyy-MM-dd hh:mm:ss
+    date-format: yyyy-MM-dd HH:mm:ss
     time-zone: GMT+8
